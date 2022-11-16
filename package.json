@@ -2,8 +2,11 @@
   "name": "react-app",
   "version": "0.1.61",
   "dependencies": {
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
     "web-vitals": "^3.0.3"
   },
   "eslintConfig": {
@@ -12,6 +15,7 @@
     ]
   },
   "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
     "typescript": "latest",
     "react-refresh": "0.10.0"
   }
